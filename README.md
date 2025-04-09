@@ -35,18 +35,13 @@ The 2D Ising model is a classic model in statistical physics used to describe ph
 Below is an overview of the repository structure along with the purpose of the key files:
 
 - **IsingCPU/**
-  - `utils_c.c`
-    *Contains the C functions for the implementation of the 2D Ising model simulation on CPU.*
-  - `main_c.c`  
-    *Contains the C main on CPU.*
+  - `utils_c.c`*Contains the C functions for the implementation of the 2D Ising model simulation on CPU.*
+  - `main_c.c`*Contains the C main on CPU.*
 
 - **IsingGPU/**
-  - `utils_cuda.cu`
-    *Contains the C functions for the implementation of the 2D Ising model simulation running on the CPU.*
-  - `kernels_cuda.cu`
-    *Contains the CUDA Kernels running on the GPU*
-  - `main_cuda.cu`  
-    *Contains the CUDA main.*
+  - `utils_cuda.cu` *Contains the C functions for the implementation of the 2D Ising model simulation running on the CPU.*
+  - `kernels_cuda.cu`*Contains the CUDA Kernels running on the GPU*
+  - `main_cuda.cu` *Contains the CUDA main.*
 
 
 
