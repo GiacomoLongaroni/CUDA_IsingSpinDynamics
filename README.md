@@ -1,7 +1,7 @@
 # CUDA Ising Spin Dynamics
 
 <div align="center">
-  <img src="Plots/ising_animation.gif" alt="Ising Model Simulation Animation" width="500"/>
+  <img src="Plots/ising_animation.gif" alt="Ising Model Simulation Animation" width="250"/>
 </div>
 
 CUDA Ising Spin Dynamics is my project developed for the _"Modern Computing for Physics"_ course in the Physics of Data MS. This repository provides two implementations of a 2D Ising model simulation:
